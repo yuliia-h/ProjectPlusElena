@@ -11,6 +11,8 @@ namespace TestGit
         static void Main(string[] args)
         {
             Console.WriteLine("");
+            ClassYuliia class1 = new ClassYuliia();
+            class1.Show();
         }
     }
 }

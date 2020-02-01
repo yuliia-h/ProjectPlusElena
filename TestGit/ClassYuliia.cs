@@ -8,5 +8,9 @@ namespace TestGit
 {
     class ClassYuliia
     {
+        public void Show()
+        {
+            Console.WriteLine("ClassYuliia method ClassYuliia");
+        }
     }
 }
